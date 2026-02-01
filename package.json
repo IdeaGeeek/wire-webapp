@@ -72,6 +72,11 @@
     "tsc-watch": "7.2.0",
     "typescript": "5.9.3"
   },
+  "dependenciesMeta": {
+    "canvas": {
+      "built": false
+    }
+  },
   "engines": {
     "yarn": ">=4.12.0",
     "node": ">=24.10.0"
